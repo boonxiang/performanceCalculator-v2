@@ -417,7 +417,7 @@ select {
     /* Initially hide the button */
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
     transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
-    border-radious: 50%;
+    border-radius: 50%;
 }
 
 #backToTopBtn:hover {
@@ -723,3 +723,4 @@ select {
 
 
 }
+
